@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "ESOL Level 2 Partner",
+  "description": "Interactive speaking and listening practice for Ascentis ESOL Skills for Life Level 2."
+}
